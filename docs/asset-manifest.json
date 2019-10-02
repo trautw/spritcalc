@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/spritcalc/static/css/main.dfca195d.chunk.css",
+    "main.js": "/spritcalc/static/js/main.230dbe15.chunk.js",
+    "main.js.map": "/spritcalc/static/js/main.230dbe15.chunk.js.map",
+    "runtime-main.js": "/spritcalc/static/js/runtime-main.05918410.js",
+    "runtime-main.js.map": "/spritcalc/static/js/runtime-main.05918410.js.map",
+    "static/js/2.dc94816f.chunk.js": "/spritcalc/static/js/2.dc94816f.chunk.js",
+    "static/js/2.dc94816f.chunk.js.map": "/spritcalc/static/js/2.dc94816f.chunk.js.map",
+    "index.html": "/spritcalc/index.html",
+    "precache-manifest.f4a4eefc9ee0a13df839304e49d28264.js": "/spritcalc/precache-manifest.f4a4eefc9ee0a13df839304e49d28264.js",
+    "service-worker.js": "/spritcalc/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/spritcalc/static/css/main.dfca195d.chunk.css.map",
+    "static/media/logo.svg": "/spritcalc/static/media/logo.25bf045c.svg"
+  }
+}
